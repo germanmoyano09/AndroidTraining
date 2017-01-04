@@ -1,14 +1,25 @@
 <resources>
-    <!-- activity_exercise1 -->
-    <string name="app_name">Lesson1</string>
+    <!-- activity_main -->
+    <string name="app_name">Android Training</string>
     <string name="button_Exercise1">Exercise 1</string>
     <string name="button_Exercise2">Exercise 2</string>
     <string name="button_Exercise3">Exercise 3</string>
-    <string name="TextView_Title">Android Training: Lesson 1 </string>
+    <string name="textView_Title">Android Training: Lesson 1 </string>
 
-    <!-- activity_exercise2 -->
-    <string name="TextView_Title_Exc2">Enter a number between 1 and 12 </string>
+    <!-- activity_exercise1 -->
+    <string name="textView_Title_Exc2">Enter a number between 1 and 12 </string>
     <string name="button_Show_Month">Show Month</string>
 
+    <!-- activity_exercise2 -->
+    <string name="textView_Calculator">Calculator</string>
+    <string name="editText_num1">num1</string>
+    <string name="editText_num2">num2</string>
+    <string name="editText_op">op</string>
+    <string name="button_Calculate">Calculate</string>
+
+    <!-- activity_exercise3 -->
+    <string name="textView_EnterNumber">Enter a number:</string>
+    <string name="editText_num">num</string>
+    <string name="button_Show">Show</string>
 
 </resources>
