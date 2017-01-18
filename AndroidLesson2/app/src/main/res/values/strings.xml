@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">AndroidLesson2</string>
+    <string name="textImg1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis</string>
+    <string name="textImg2">Eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas</string>
+    <string name="textImg3">Ibero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,justo. Nullam dictum. cat</string>
+    <string name="Img1Button1">Button1</string>
+    <string name="Img1Button2">Button2</string>
+    <string name="Img1Button3">Button3</string>
+    <string name="textBtn1">olor sit amet, consectetuer adipiscing elit. Aenean</string>
+    <string name="textBtn2">mollis pretium. Integer tincidunt. Cras dap</string>
+    <string name="textBtn3">sem neque sed ipsum. Nam qua</string>
 </resources>

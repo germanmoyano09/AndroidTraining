@@ -15,6 +15,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".InfoGroup1" />
+        <activity android:name=".InfoGroup2" />
+        <activity android:name=".InfoGroup3" />
+        <activity android:name=".Btn1"></activity>
+        <activity android:name=".Btn2"></activity>
+        <activity android:name=".Btn3"></activity>
     </application>
 
 </manifest>
